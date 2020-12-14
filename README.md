@@ -1,2 +1,7 @@
 # R-ecology-lessons
-Code and data for the lessons from Coding Club
+
+Author: Michael Bunker
+
+Email:  michael.t.bunker@gmail.com
+
+Lesson plans and data come from https://ourcodingclub.github.io/.
